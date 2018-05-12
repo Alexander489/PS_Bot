@@ -1,15 +1,15 @@
 var ps = require('psbot');
 
 //Name of the bot.
-ps.name = 'botname';
+ps.name = 'Frogadier_Bot';
 //Password. can be blank.
-ps.pass = 'botpass';
+ps.pass = 'qwerty';
 //Rooms for the bot to join.
-ps.rooms = ['rooms','goe','here'];
+ps.rooms = ['groupchat-sentimentality-nfe'];
 //server and port. port is usually 8000
 ps.server = 'sim.smogon.com:8000';
 //in commands like '!data gengar', '!' is the symbol.
-ps.symbol = 'symbolgoeshere';
+ps.symbol = '.';
 
 /* commands. the parameters are
  * args, room, user
